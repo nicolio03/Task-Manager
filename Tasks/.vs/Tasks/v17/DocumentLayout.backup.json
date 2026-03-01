@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicol\\source\\repos\\Tasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{357ABA3F-48EB-4283-8CB9-12D0E1E73D14}|Tasks\\Tasks.csproj|c:\\users\\nicol\\source\\repos\\tasks\\tasks\\addtaskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{357ABA3F-48EB-4283-8CB9-12D0E1E73D14}|Tasks\\Tasks.csproj|solutionrelative:tasks\\addtaskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357ABA3F-48EB-4283-8CB9-12D0E1E73D14}|Tasks\\Tasks.csproj|c:\\users\\nicol\\source\\repos\\tasks\\tasks\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{357ABA3F-48EB-4283-8CB9-12D0E1E73D14}|Tasks\\Tasks.csproj|solutionrelative:tasks\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357ABA3F-48EB-4283-8CB9-12D0E1E73D14}|Tasks\\Tasks.csproj|c:\\users\\nicol\\source\\repos\\tasks\\tasks\\csvtasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{357ABA3F-48EB-4283-8CB9-12D0E1E73D14}|Tasks\\Tasks.csproj|solutionrelative:tasks\\csvtasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357ABA3F-48EB-4283-8CB9-12D0E1E73D14}|Tasks\\Tasks.csproj|c:\\users\\nicol\\source\\repos\\tasks\\tasks\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{357ABA3F-48EB-4283-8CB9-12D0E1E73D14}|Tasks\\Tasks.csproj|solutionrelative:tasks\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357ABA3F-48EB-4283-8CB9-12D0E1E73D14}|Tasks\\Tasks.csproj|c:\\users\\nicol\\source\\repos\\tasks\\tasks\\completetaskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{357ABA3F-48EB-4283-8CB9-12D0E1E73D14}|Tasks\\Tasks.csproj|solutionrelative:tasks\\completetaskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357ABA3F-48EB-4283-8CB9-12D0E1E73D14}|Tasks\\Tasks.csproj|C:\\Users\\nicol\\source\\repos\\Tasks\\tasks\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{357ABA3F-48EB-4283-8CB9-12D0E1E73D14}|Tasks\\Tasks.csproj|solutionrelative:tasks\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357ABA3F-48EB-4283-8CB9-12D0E1E73D14}|Tasks\\Tasks.csproj|C:\\Users\\nicol\\source\\repos\\Tasks\\tasks\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{357ABA3F-48EB-4283-8CB9-12D0E1E73D14}|Tasks\\Tasks.csproj|solutionrelative:tasks\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357ABA3F-48EB-4283-8CB9-12D0E1E73D14}|Tasks\\Tasks.csproj|c:\\users\\nicol\\source\\repos\\tasks\\tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{357ABA3F-48EB-4283-8CB9-12D0E1E73D14}|Tasks\\Tasks.csproj|solutionrelative:tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CsvTasks.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\source\\repos\\Tasks\\Tasks\\CsvTasks.cs",
+              "RelativeDocumentMoniker": "Tasks\\CsvTasks.cs",
+              "ToolTip": "C:\\Users\\nicol\\source\\repos\\Tasks\\Tasks\\CsvTasks.cs",
+              "RelativeToolTip": "Tasks\\CsvTasks.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAywEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T13:10:20.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddTaskForm.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\source\\repos\\Tasks\\Tasks\\AddTaskForm.cs",
+              "RelativeDocumentMoniker": "Tasks\\AddTaskForm.cs",
+              "ToolTip": "C:\\Users\\nicol\\source\\repos\\Tasks\\Tasks\\AddTaskForm.cs",
+              "RelativeToolTip": "Tasks\\AddTaskForm.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAwwKMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T13:16:08.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\source\\repos\\Tasks\\Tasks\\TaskItem.cs",
+              "RelativeDocumentMoniker": "Tasks\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\nicol\\source\\repos\\Tasks\\Tasks\\TaskItem.cs",
+              "RelativeToolTip": "Tasks\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T13:09:29.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CompleteTaskForm.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\source\\repos\\Tasks\\Tasks\\CompleteTaskForm.cs",
+              "RelativeDocumentMoniker": "Tasks\\CompleteTaskForm.cs",
+              "ToolTip": "C:\\Users\\nicol\\source\\repos\\Tasks\\Tasks\\CompleteTaskForm.cs",
+              "RelativeToolTip": "Tasks\\CompleteTaskForm.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAwwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T13:16:36.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\source\\repos\\Tasks\\Tasks\\MainForm.cs",
+              "RelativeDocumentMoniker": "Tasks\\MainForm.cs",
+              "ToolTip": "C:\\Users\\nicol\\source\\repos\\Tasks\\Tasks\\MainForm.cs",
+              "RelativeToolTip": "Tasks\\MainForm.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAIAwwI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T13:13:41.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nicol\\source\\repos\\Tasks\\Tasks\\Form1.cs",
+              "RelativeDocumentMoniker": "Tasks\\Form1.cs",
+              "ToolTip": "C:\\Users\\nicol\\source\\repos\\Tasks\\Tasks\\Form1.cs [Design]",
+              "RelativeToolTip": "Tasks\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T13:08:28.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\source\\repos\\Tasks\\Tasks\\Program.cs",
+              "RelativeDocumentMoniker": "Tasks\\Program.cs",
+              "ToolTip": "C:\\Users\\nicol\\source\\repos\\Tasks\\Tasks\\Program.cs",
+              "RelativeToolTip": "Tasks\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T13:08:42.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nicol\\source\\repos\\Tasks\\Tasks\\MainForm.cs",
+              "RelativeDocumentMoniker": "Tasks\\MainForm.cs",
+              "ToolTip": "C:\\Users\\nicol\\source\\repos\\Tasks\\Tasks\\MainForm.cs [Design]",
+              "RelativeToolTip": "Tasks\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T13:24:17.676Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\nicol\source\repos\Tasks\Tasks\obj\Debug\net8.0-windows\Tasks.Form1.resources
+C:\Users\nicol\source\repos\Tasks\Tasks\obj\Debug\net8.0-windows\Tasks.csproj.GenerateResource.cache
+C:\Users\nicol\source\repos\Tasks\Tasks\obj\Debug\net8.0-windows\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\source\repos\Tasks\Tasks\obj\Debug\net8.0-windows\Tasks.AssemblyInfoInputs.cache
+C:\Users\nicol\source\repos\Tasks\Tasks\obj\Debug\net8.0-windows\Tasks.AssemblyInfo.cs
+C:\Users\nicol\source\repos\Tasks\Tasks\obj\Debug\net8.0-windows\Tasks.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\Tasks\Tasks\bin\Debug\net8.0-windows\Tasks.exe
+C:\Users\nicol\source\repos\Tasks\Tasks\bin\Debug\net8.0-windows\Tasks.deps.json
+C:\Users\nicol\source\repos\Tasks\Tasks\bin\Debug\net8.0-windows\Tasks.runtimeconfig.json
+C:\Users\nicol\source\repos\Tasks\Tasks\bin\Debug\net8.0-windows\Tasks.dll
+C:\Users\nicol\source\repos\Tasks\Tasks\bin\Debug\net8.0-windows\Tasks.pdb
+C:\Users\nicol\source\repos\Tasks\Tasks\obj\Debug\net8.0-windows\Tasks.dll
+C:\Users\nicol\source\repos\Tasks\Tasks\obj\Debug\net8.0-windows\refint\Tasks.dll
+C:\Users\nicol\source\repos\Tasks\Tasks\obj\Debug\net8.0-windows\Tasks.pdb
+C:\Users\nicol\source\repos\Tasks\Tasks\obj\Debug\net8.0-windows\Tasks.genruntimeconfig.cache
+C:\Users\nicol\source\repos\Tasks\Tasks\obj\Debug\net8.0-windows\ref\Tasks.dll
+C:\Users\nicol\source\repos\Tasks\Tasks\obj\Debug\net8.0-windows\Tasks.MainForm.resources
